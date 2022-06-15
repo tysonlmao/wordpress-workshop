@@ -1,6 +1,9 @@
 # wordpress-workshop
 This is a testing environment for using the Wordpress environment.
 
+<img src="linus.png"
+     alt="linus"
+     style="float: center; margin-right: 10px;" />
 
 ## Usage
 ```bash
@@ -14,7 +17,3 @@ wp-env stop
 npm run start
 npm run stop
 ```
-
-<img src="linus.png"
-     alt="linus"
-     style="float: left; margin-right: 10px;" />
