@@ -14,3 +14,7 @@ wp-env stop
 npm run start
 npm run stop
 ```
+
+<img src="linus.png"
+     alt="linus"
+     style="float: left; margin-right: 10px;" />
